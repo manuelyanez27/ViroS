@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/layout-land/ui_layer_with_portrait_support.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/ViroSample/gvr_common/unspecified/res/layout-land/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/layout-land/settings_button.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/ViroSample/gvr_common/unspecified/res/layout-land/settings_button.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/layout-land/back_button.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/ViroSample/gvr_common/unspecified/res/layout-land/back_button.xml"
+    }
+]

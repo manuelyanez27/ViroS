@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.facebook.fresco-imagepipeline-1.3.0_f0860e659420f18250cbe5779f474c14e94d199d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/ViroSample/arcore_client/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b0f1fe293164cba294128e6b609141fd62f91bff">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/4/ViroSample-arcore_client-unspecified_216ef94b26a3a150c60b270fd1d51ec26755f9c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb/2.2.22/a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549/aws-android-sdk-ddb-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/aws-android-sdk-ddb-2.2.22_e9af19ed3277195a41d1995d1e863afa7f0c089a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.android.support-support-compat-25.0.0_9e03ceff9a7be3c27f4d33d6f71185c475713fea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_acb9a8bbfbd52713c06af17e4f3d082ef3f05d41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-core/2.7.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7be36f0df9c9c4352182c9a3265bd0156d32a43">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.google.android.exoplayer-exoplayer-core-2.7.1_7f49db7258e11bf8807415486fbf7ed5358b2f4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_f0860e659420f18250cbe5779f474c14e94d199d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.2.22/9bef9beddb1b7579713905702d8219d516bd3954/aws-android-sdk-cognito-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9bef9beddb1b7579713905702d8219d516bd3954">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/aws-android-sdk-cognito-2.2.22_73663c0d47f25e8017980eb8f5008a5a75d0e050/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.facebook.soloader-soloader-0.1.0_c292971b22880fb7ed63398a1eb7c32f29e17427/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_04482369033c19aab1f6f0a681f31de7dd4a9858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_c292971b22880fb7ed63398a1eb7c32f29e17427.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/javax.inject-1_530b0e3b1e572ec82b44cd46213668907413204c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/okhttp-3.6.0_2eaab746c5178201551e207a8b06cf46226c5aea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/ViroSample/gvr_common/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1bdf1c662489164112ea64181ba0df59970899af">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/4/ViroSample-gvr_common-unspecified_868d7f813c13e4a29b397e0177ea1c8be53570b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/ViroSample/viro_renderer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="47e184a3c6dd19d736c97c34c4f57c5b5c3a0802">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/4/ViroSample-viro_renderer-unspecified_e4422d84d471aa6f390283f55ee9567c788cec47/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b8922c8b740fc4e55933ed271fedb463955397f8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_ddeaff2129f78bb6973eb6314331f066999db0ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_c1e3dfe94239d35ce56bc1c26cf4e981db7cf4e3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.22/c6789de00db9d1f93faec881fa0c1f5960fb8a15/aws-android-sdk-core-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c6789de00db9d1f93faec881fa0c1f5960fb8a15">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/aws-android-sdk-core-2.2.22_dc10797892f78c4114e3878511408a3abe386159/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/staticlayout-proxy-1.0_b8922c8b740fc4e55933ed271fedb463955397f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/internal_impl-25.0.0_47b47f03822a724ecdab48f53ed0ba5ce2918755/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_2eaab746c5178201551e207a8b06cf46226c5aea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="32144817b13aa04e560dad1d1b52c420e4f9d5ca">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.1_435948974be358448136e4eec70481ea9210dfae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_899b758b76497cf8da1eac4106b295f201ca3ef4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/bolts-tasks-1.4.0_3008f78728850dd42b2cbb1cc89ad65a46ffbb84/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_c92e0728b5acc5f97f4f04fa1d13fa8186cb5cca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/okhttp-urlconnection-3.6.0_899b758b76497cf8da1eac4106b295f201ca3ef4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_d8a9f2b7fb9539721477bdc5c5d709cb925bdbbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="32144817b13aa04e560dad1d1b52c420e4f9d5ca">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.facebook.react-react-native-0.55.1_435948974be358448136e4eec70481ea9210dfae/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_530b0e3b1e572ec82b44cd46213668907413204c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-1.3.0_b499f5c76e236942a3dc5fcf8a1be3e0fe29ce5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.android.support-support-v4-25.0.0_914821f43a31b4db4c1b3f4dc7a183266f6f6948/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_490b3e1029fc85331f43f4c394cf9fdb5091ab22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_b499f5c76e236942a3dc5fcf8a1be3e0fe29ce5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f77647a400755c6b100976182e203541fabfd618.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c49f7d21dbec3ac05e9df73acd2fc436e032b567/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.0/a7782471b2a0de8fec071b8094a8aaf61c46ab70/support-annotations-27.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/support-annotations-27.0.0_f7b1f41a2985cbb46644cee4b8527810fd4e665b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c49f7d21dbec3ac05e9df73acd2fc436e032b567.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb-mapper/2.2.22/57538cc0c8d6f9279d94aa347fb1a90f68592719/aws-android-sdk-ddb-mapper-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57538cc0c8d6f9279d94aa347fb1a90f68592719">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/aws-android-sdk-ddb-mapper-2.2.22_c72bac053d310426a5461a55c9bba61a233368fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.2.22/40fe82092e0ae3ca549b132a1e7e876807525176/aws-android-sdk-s3-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="40fe82092e0ae3ca549b132a1e7e876807525176">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/aws-android-sdk-s3-2.2.22_f954b12b44681b393b718cac5284d9a8e01c2156/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/infer-annotations-4.0_f77647a400755c6b100976182e203541fabfd618/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.facebook.fresco-drawee-1.3.0_c92e0728b5acc5f97f4f04fa1d13fa8186cb5cca/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3008f78728850dd42b2cbb1cc89ad65a46ffbb84.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/internal_impl-25.0.0_c49cbb6e18bd9d041f94fb454107f1985e347b0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e0e8c5486f060d5a2375256ebca012fe04047267">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.google.android.exoplayer-exoplayer-ui-2.7.1_ba8b9af084aeb77f2bf3d8aaa58b5b19e11b5b68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/2.7.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.google.android.exoplayer-exoplayer-2.7.1_ac3ccd2b5ad9831ae2633d2723405d2ac0a97da0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.google.protobuf.nano/protobuf-javanano/3.0.0-alpha-7/52587934797e3433992a9d69178a1471e4a8f85d/protobuf-javanano-3.0.0-alpha-7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="52587934797e3433992a9d69178a1471e4a8f85d">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/protobuf-javanano-3.0.0-alpha-7_619e61e34206419867568408e789884462bdf32e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/jsr305-3.0.0_1373e1b28648d30f846466f103fee1c291bffd78/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_af2f9bf07b2a42c85f0ffee66e53fb223ba1ff39.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.facebook.fresco-fresco-1.3.0_fca6c2cd17aaa9e24fdcf6a1152e99f233cafec3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_af2f9bf07b2a42c85f0ffee66e53fb223ba1ff39/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_fca6c2cd17aaa9e24fdcf6a1152e99f233cafec3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_feac03411ebfa394c24c4df12795db6f06fec090.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/ViroSample/react_viro/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0fb5f9031519563e8c28b9fffc6e6227490a125b">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/4/ViroSample-react_viro-unspecified_e060eb6afce5ef4fe9e54c93e7347a5fe793c1c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_7e745e99f6371829bab32fee0df56d3e9c411ca0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.facebook.fresco-fbcore-1.3.0_feac03411ebfa394c24c4df12795db6f06fec090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/internal_impl-25.0.0_b0553b5c95eaae82536c9495c29401b94e9a698d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/internal_impl-25.0.0_12d83ffbcf527ef95478b8e9efae2f0d1c6c9065/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_fdd3f4e192c88f463ee9023ab68f00614b7ceaec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-smoothstreaming/2.7.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8c57f428f82d1accd3d84d9d7fcae183ed94297f">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.google.android.exoplayer-exoplayer-smoothstreaming-2.7.1_79f70eb7459c0de8a80d605376f937bd33aef648/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/okio-1.13.0_04482369033c19aab1f6f0a681f31de7dd4a9858/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-dash/2.7.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4814b2e1515e46aed0a48174fd915542f7ef42fb">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.google.android.exoplayer-exoplayer-dash-2.7.1_3c5abc6b3c807dc27b471437609cf508f54d108a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_9a5b9199401fd8076f47b88f084349326093d5c5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognitoidentityprovider/2.2.22/6ddcf148b81c8a388d17964d78cf3e26f0ae9bc/aws-android-sdk-cognitoidentityprovider-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="06ddcf148b81c8a388d17964d78cf3e26f0ae9bc">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/aws-android-sdk-cognitoidentityprovider-2.2.22_1f5aa18b397b4b17c1ad3dd545346b880db6b4c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/gson-2.2.4_297a77f45460070f1e45b44d958b25dc361a06f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/internal_impl-25.0.0_28eb5dab08aec07ed23cab199c8750ce16879b14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_97d9fe22816a7a26a0199a9f1826902b616a2579/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_0ba96e0b66debf5850b450fb80ecc83904981e38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-hls/2.7.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="206dc17e8201683d26c371c3b48e42a6f68d0db7">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.google.android.exoplayer-exoplayer-hls-2.7.1_46601a3234424c17ffc1e774f10499f31e3a1f2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/transforms/dex/ar/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_d9dc071fda011400b0e5417880f67085a1e9fa59/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lilianarojasmartinez/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_1373e1b28648d30f846466f103fee1c291bffd78.jar" />
+    </item>
+
+</items>

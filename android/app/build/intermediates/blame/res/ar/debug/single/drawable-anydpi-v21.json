@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/drawable-anydpi-v21/exo_controls_repeat_off.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/res/drawable-anydpi-v21/exo_controls_repeat_off.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/drawable-anydpi-v21/exo_controls_repeat_all.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/res/drawable-anydpi-v21/exo_controls_repeat_all.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/drawable-anydpi-v21/exo_edit_mode_logo.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/res/drawable-anydpi-v21/exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/drawable-anydpi-v21/exo_controls_fastforward.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/res/drawable-anydpi-v21/exo_controls_fastforward.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/drawable-anydpi-v21/exo_controls_pause.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/res/drawable-anydpi-v21/exo_controls_pause.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/drawable-anydpi-v21/exo_controls_play.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/res/drawable-anydpi-v21/exo_controls_play.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/drawable-anydpi-v21/exo_controls_rewind.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/res/drawable-anydpi-v21/exo_controls_rewind.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/drawable-anydpi-v21/exo_controls_fullscreen_enter.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/res/drawable-anydpi-v21/exo_controls_fullscreen_enter.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/drawable-anydpi-v21/exo_controls_fullscreen_exit.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/res/drawable-anydpi-v21/exo_controls_fullscreen_exit.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/drawable-anydpi-v21/exo_controls_next.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/res/drawable-anydpi-v21/exo_controls_next.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/drawable-anydpi-v21/exo_controls_shuffle.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/res/drawable-anydpi-v21/exo_controls_shuffle.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/drawable-anydpi-v21/exo_controls_repeat_one.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/res/drawable-anydpi-v21/exo_controls_repeat_one.xml"
+    },
+    {
+        "merged": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/res/merged/ar/debug/drawable-anydpi-v21/exo_controls_previous.xml",
+        "source": "/Users/lilianarojasmartinez/Desktop/Portafolio/AR1/ViroSample/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.1/res/drawable-anydpi-v21/exo_controls_previous.xml"
+    }
+]
